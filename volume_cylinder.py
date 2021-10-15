@@ -35,7 +35,7 @@ def main():
 
         # output
         print(
-            "The volume of the cylinder is {} cm².".format(calculated_volume_cylinder)
+            "The volume of the cylinder is {} cm³.".format(calculated_volume_cylinder)
         )
 
     except Exception:
